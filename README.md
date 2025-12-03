@@ -1,2 +1,1 @@
-# BorgesCloud  
-BorgesCloud is a technology-focused LLC created to showcase my work, ideas, and projects. It serves as the home for my personal site, pet experiments, public enterprise initiatives, and anything else connected to me, [Marcelo Borges](https://www.linkedin.com/in/marcelomborges/). The goal is to build a digital hub of useful insights—sharing what I’ve learned about technology, independence, and healthy living in a fast-changing world.
+***Moved to profile folder***
